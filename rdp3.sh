@@ -1,14 +1,14 @@
 #!/bin/bash
 
 # Set default username and password
-username="user"
-password="root"
+username="vidder"
+password="yash"
 
 # Set default CRP value
 CRP=""
 
 # Set default Pin value
-Pin="123456"
+Pin="392486"
 
 # Set default Autostart value
 Autostart=true
